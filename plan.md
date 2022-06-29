@@ -7,7 +7,7 @@
 - GOG
 - Steam compatible game (Why do Valve invest in Linux gaming ?)
 - Steam OS based on Arch why ?, Steam deck
-- Hololine project
+- Holoiso project
 https://github.com/theVakhovskeIsTaken/holoiso
 - Wine (open source, origin of proton), Bottles (maybe)
 - Proton (only for games ? open source ?), protondb list of tested games, games originally developed for Windows
