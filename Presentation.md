@@ -28,5 +28,12 @@ Why it's struggling to become more popular ?
 <!-- _class: invert -->
 
 # Preamble
-![bg fit right](./img/warning.png)
+## Focus on PC gaming market
+---
+
+<!-- _class: invert -->
+
+# Global games market value 
+(in 2021)
+![bg fit right](./img/market_shares_gaming.png)
 ---
