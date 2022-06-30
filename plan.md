@@ -12,7 +12,8 @@ https://www.pesesurstart.com/2021/12/23/voici-en-chiffres-a-quoi-ressemble-lindu
 https://github.com/theVakhovskeIsTaken/holoiso
 - Wine (open source, origin of proton), Bottles (maybe)
 - Proton (only for games ? open source ?), protondb list of tested games, games originally developed for Windows
-- Talk about Linux distro for gaming
+- Talk about Linux distro for 
+https://www.tomsguide.com/best-picks/best-linux-distros-for-gaming
 - Gaming developpement exists on Linux
 - Drivers in Linux and technical reasons why it's "more difficult" to play on Linux systems
 - Show benchmarks based on preselected games (Linux VS Windows)
