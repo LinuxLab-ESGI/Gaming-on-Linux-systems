@@ -7,7 +7,11 @@ __________
 
 ## Preamble
 
-focus in PC gaming
+In this article, we will focus exclusively on PC gaming market. As we can see below, it represents 30% of the global market value (here in 2021) :
+
+![bg fit right](./img/market_shares_gaming.png)
+
+We will not discuss about consoles like Xbox, PS4/5, Nintendo Switch... Except the Steam Deck (we will see why), Linux systems have very rarely been invited into the gaming environment natively.
 
 ## The two key players in the world of Linux gaming
 
@@ -15,7 +19,7 @@ Valve and CDProjekt
 
 ### Why Valve is investing in Linux gaming
 
-SteamOS, Steam Deck, 
+SteamOS, Steam Deck
 
 ### When the open source community gets involved
 

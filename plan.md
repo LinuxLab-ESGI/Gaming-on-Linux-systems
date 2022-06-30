@@ -2,6 +2,7 @@
 - Intro, presentation of us
 - Why gaming on linux is struggling to become more popular ?
 - Precise pc platform and not mobile platform
+https://www.pesesurstart.com/2021/12/23/voici-en-chiffres-a-quoi-ressemble-lindustrie-des-jeux-video-en-2021
 - Presentation
 - The market share in gaming
 - GOG
