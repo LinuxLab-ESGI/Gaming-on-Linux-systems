@@ -36,4 +36,33 @@ Why it's struggling to become more popular ?
 # Global games market value 
 (in 2021)
 ![bg fit right](./img/market_shares_gaming.png)
+
 ---
+
+<!-- _class: invert -->
+
+# A key player of the Linux gaming community
+---
+
+<!-- _class: invert -->
+
+## Valve : a desire to create a whole new ecosystem
+- SteamOS 1.0 released in 2013, based on Debian 7 (Wheezie)
+- Steam Machines with SteamOS 2.0 (based on Debian 8) in 2015, a new hybrid gaming console between PC and home console (like Playstation or Xbox)
+- Valve removes the Steam Machines section from the Steam client in 2018
+
+---
+
+<!-- _class: invert -->
+
+# 2021, a decisive year for Valve and the Linux gaming community
+
+---
+
+<!-- _class: invert -->
+
+The Steam Deck
+- SteamOS 3.0 is released, based on Arch Linux
+- Steam Deck is released, the new portable gaming console
+
+![bg fit right](./img/steam_deck.jpg)
