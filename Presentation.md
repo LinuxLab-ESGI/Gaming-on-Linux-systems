@@ -71,5 +71,46 @@ The Steam Deck
 
 <!-- _class: invert -->
 
+# When the open source community gets involved
+---
+
+<!-- _class: invert -->
+
 # The HoloISO project
 ![bg fit right](./img/holoiso_desktop.jpg)
+
+---
+
+<!-- _class: invert -->
+
+# The Wine project
+
+---
+
+<!-- _class: invert -->
+
+# Proton, the beginning of the revolution
+
+---
+
+<!-- _class: invert -->
+
+# The ProtonDB
+
+---
+
+<!-- _class: invert -->
+
+# The most famous Linux distro for gaming
+
+---
+
+<!-- _class: invert -->
+
+# Why video games are originally developed for Windows ?
+
+---
+
+<!-- _class: invert -->
+
+# Benchmark : Linux VS Windows
