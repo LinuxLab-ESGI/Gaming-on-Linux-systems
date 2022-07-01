@@ -72,6 +72,7 @@ The Steam Deck
 <!-- _class: invert -->
 
 # When the open source community gets involved
+###### https://github.com/theVakhovskeIsTaken/holoiso
 ---
 
 <!-- _class: invert -->
