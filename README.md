@@ -20,7 +20,6 @@ For almost 10 years, Valve has always shown interest in the Linux gaming communi
 Valve intended to make SteamOS a viable alternative of the Windows systems and to give a whole new ecosystem for the gamers with a Steam account. In 2015, Valve announced Steam Machines with the new SteamOS 2.0, a new hybrid gaming console between PC and home console (like Playstation or Xbox). The goal of theses consoles was to attract both the PC gamers abd the home console gamers. But it was a huge commercial failure. Currently, at the time of writing, when you enter the words "Steam machines", you will see a lot articles talking about the death of theses consoles. Of course, the Steam Machines are no longer available for sale now.
 
 ### A new hope for Valve and the Linux gaming community
-N
 
 Steam Deck
 

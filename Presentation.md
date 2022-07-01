@@ -66,3 +66,10 @@ The Steam Deck
 - Steam Deck is released, the new portable gaming console
 
 ![bg fit right](./img/steam_deck.jpg)
+
+---
+
+<!-- _class: invert -->
+
+# The HoloISO project
+![bg fit right](./img/holoiso_desktop.jpg)
