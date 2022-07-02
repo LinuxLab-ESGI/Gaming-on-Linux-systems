@@ -4,7 +4,7 @@ paginate: true
 color: #ffff
 backgroundColor: #2A2A2A
 header: '![width:100px height:100px](./img/logo.png)'
-footer: "**02/07/2022 - Anthony F && Nicolas F**"
+footer: "**07/02/2022 - Anthony F && Nicolas F**"
 author: Xen0rInspire && Tony2464
 ---
 <style>
@@ -95,6 +95,25 @@ The Steam Deck
 
 ---
 
+
+<!-- _class: invert -->
+
+Proton is a compatibility layer for Windows games, design to improve performance and compatibility with Linux systems.
+
+Proton is embbedded in the Steam client for Linux as "Steam Play".
+
+---
+
+<!-- _class: invert -->
+
+- Released in 2018 by Valve
+- Open source project
+- Based on Wine and includes DXVK/VKD3D among many other libraries
+
+![bg fit right](./img/proton.png)
+
+---
+
 <!-- _class: invert -->
 
 # The ProtonDB
@@ -110,7 +129,9 @@ The Steam Deck
 
 ![bg 60% right](./img/steam_os.jpg)
 
+#
 # Steam OS
+<!-- To build your own Steam machine -->
 
 - Fork of Debian based on 8.x "Jessie"
 - Not actively maintained and outdated
@@ -147,7 +168,7 @@ The Steam Deck
 
 # Drauger OS
 
-- Based on Ubuntu TLS but
+- Based on Ubuntu TLS
 - Customized Linux Kernel to reduced the latency
 - Claims to support most Xbox and Xbox360 controllers and some PlayStation controllers as well
 
