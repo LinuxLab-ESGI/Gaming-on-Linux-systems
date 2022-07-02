@@ -155,7 +155,33 @@ The Steam Deck
 
 <!-- _class: invert -->
 
-# Why video games are originally developed for Windows ?
+# Why video games are mostly developed for Windows ?
+
+---
+
+<!-- _class: invert -->
+
+<!-- # From the market share perspective -->
+
+![bg 100%](./img/market.png)
+
+---
+
+<!-- _class: invert -->
+
+<!-- # From the market share perspective -->
+
+![bg 100%](./img/market3.png)
+
+---
+
+<!-- _class: invert -->
+
+<!-- # From the market share perspective -->
+
+# Statista
+
+![bg 30%](./img/market2.png)
 
 ---
 
