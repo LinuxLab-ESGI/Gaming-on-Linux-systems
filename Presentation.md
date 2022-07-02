@@ -85,6 +85,7 @@ The Steam Deck
 <!-- _class: invert -->
 
 # The Wine project
+![bg 50% right](./img/wine.svg)
 
 ---
 
@@ -102,7 +103,53 @@ The Steam Deck
 
 <!-- _class: invert -->
 
-# The most famous Linux distro for gaming
+# The most famous Linux distros for gaming
+
+---
+<!-- _class: invert -->
+
+![bg 60% right](./img/steam_os.jpg)
+
+# Steam OS
+
+- Fork of Debian based on 8.x "Jessie"
+- Not actively maintained and outdated
+
+> Except SteamOS 3.x is the new version based on Arch for Steam Deck
+
+---
+<!-- _class: invert -->
+
+![bg 60% right](./img/pop_os.svg)
+
+# Pop!_OS
+
+- Made by Sytem76
+- Based on Ubuntu TLS
+- Suited for hybrid graphics computers
+- Version with Nvidia driver pre-installed
+
+---
+<!-- _class: invert -->
+
+![bg 60% right](./img/garuda.svg)
+
+# Garuda Linux
+
+- Based on Arch Linux
+- Several GUI applications to easily manage the system
+- Garuda Gamer application (GUI tool to install gaming-related tools from one place)
+
+---
+<!-- _class: invert -->
+
+![bg 60% right](./img/drauger.png)
+
+# Drauger OS
+
+- Based on Ubuntu TLS but
+- Customized Linux Kernel to reduced the latency
+- Claims to support most Xbox and Xbox360 controllers and some PlayStation controllers as well
 
 ---
 
