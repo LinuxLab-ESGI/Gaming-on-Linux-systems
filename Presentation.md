@@ -146,7 +146,7 @@ Proton is embbedded in the Steam client for Linux as "Steam Play".
 # Pop!_OS
 
 - Made by Sytem76
-- Based on Ubuntu TLS
+- Based on Ubuntu LTS
 - Suited for hybrid graphics computers
 - Version with Nvidia driver pre-installed
 
@@ -168,7 +168,7 @@ Proton is embbedded in the Steam client for Linux as "Steam Play".
 
 # Drauger OS
 
-- Based on Ubuntu TLS
+- Based on Ubuntu LTS
 - Customized Linux Kernel to reduced the latency
 - Claims to support most Xbox and Xbox360 controllers and some PlayStation controllers as well
 
