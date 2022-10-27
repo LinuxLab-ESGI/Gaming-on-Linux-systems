@@ -11,7 +11,10 @@ In this article, we will focus exclusively on PC gaming market. As we can see be
 
 ![bg fit right](./img/market_shares_gaming.png)
 
-We will not discuss about consoles like Xbox, PS4/5, Nintendo Switch or little browser games like the chrome dino. Except the Steam Deck (we will see why), Linux systems have very rarely been invited into the gaming environment natively, especially for the general public.
+*Source : Newzoo 2021 | Global Games Market Report*
+<br>
+<br>
+We will not discuss about consoles like Xbox, PS4/5, Nintendo Switch or little browser games like the chrome dino. Except the Steam Deck (we will see why), Linux systems have very rarely been invited into the gaming environment natively or promoted at big gamig events. This is one of the main reasons why it's still a domain of enthusiasts, already familiar with Linux environments.
 
 ## One of the key players in the development of gaming on Linux systems
 
@@ -21,7 +24,10 @@ Valve intended to make SteamOS a viable alternative of the Windows systems and t
 
 ### A new hope for Valve and the Linux gaming community
 
-Steam Deck
+2021 was a crucial year for Linux gaming and even for Gaming in general. In fact, Valve announces the release of the Steam Deck console and SteamOS 3.0. Due to semiconductor shortage, the console was only available after a few months (at the beginning of 2022) which did not prevent it from being a real success for the players.
+
+Environnement KDE Plasma
+Basé sur Arch
 
 ### When the open source community gets involved 
 N
@@ -58,3 +64,5 @@ https://fr.wikipedia.org/wiki/SteamOS
 https://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999/
 
 https://www.futura-sciences.com/tech/definitions/informatique-steamos-19992/
+
+https://www.phonandroid.com/steam-deck-prix-date-de-sortie-fiche-technique-jeux-tout-savoir-sur-la-console-portable-de-valve.html
