@@ -24,10 +24,9 @@ Valve intended to make SteamOS a viable alternative of the Windows systems and t
 
 ### A new hope for Valve and the Linux gaming community
 
-2021 was a crucial year for Linux gaming and even for Gaming in general. In fact, Valve announces the release of the Steam Deck console and SteamOS 3.0. Due to semiconductor shortage, the console was only available after a few months (at the beginning of 2022) which did not prevent it from being a real success for the players.
+2021 was a crucial year for Linux gaming and even for Gaming in general. In fact, Valve announces the release of the Steam Deck console in July of that year. Due to semiconductor shortage, the console was only available after a few months (at the beginning of 2022 in Europe for example) which did not prevent it from being a real success for the players.
 
-Environnement KDE Plasma
-Basé sur Arch
+At the same time as the release of the console, Valve also released SteamOS 3.0, based on Arch Linux this time, with a KDE environment. This new version of SteamOS is a real success for the Linux community and it is the first time that a major Linux distribution is used as the base of a gaming console designed for the general public. This is a real step forward for the Linux gaming community.
 
 ### When the open source community gets involved 
 N
@@ -35,26 +34,19 @@ N
 HoloISO project
 
 ## The Wine project 
-A
 
 ## Proton, the beginning of the revolution 
-N
 
 ### The ProtonDB 
-N
 
 ## Most famous Linux distro for gaming 
-A
-
 gaming distro, retropie
 
 ## Why video games are originally developed for Windows ?
-A
-
 DirectX, DRM (like Easy anticheat)
 
 ## Benchmarks based on preselected games (Linux VS Windows)
-N
+
 ## Appendix - Sources and References
 
 https://www.01net.com/actualites/pour-linus-torvalds-steam-os-aidera-vraiment-linux-sur-les-pc-de-bureau-606188.html
