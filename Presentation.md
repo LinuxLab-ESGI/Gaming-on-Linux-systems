@@ -203,9 +203,3 @@ Proton is embbedded in the Steam client for Linux as "Steam Play".
 # Statista
 
 ![bg 30%](./img/market2.png)
-
----
-
-<!-- _class: invert -->
-
-# Benchmark : Linux VS Windows

@@ -45,8 +45,6 @@ gaming distro, retropie
 ## Why video games are originally developed for Windows ?
 DirectX, DRM (like Easy anticheat)
 
-## Benchmarks based on preselected games (Linux VS Windows)
-
 ## Appendix - Sources and References
 
 https://www.01net.com/actualites/pour-linus-torvalds-steam-os-aidera-vraiment-linux-sur-les-pc-de-bureau-606188.html
