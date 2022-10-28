@@ -29,9 +29,14 @@ Valve intended to make SteamOS a viable alternative of the Windows systems and t
 At the same time as the release of the console, Valve also released SteamOS 3.0, based on Arch Linux this time, with a KDE environment. This new version of SteamOS is a real success for the Linux community and it is the first time that a major Linux distribution is used as the base of a gaming console designed for the general public. This is a real step forward for the Linux gaming community.
 
 ### When the open source community gets involved 
-N
 
-HoloISO project
+Unlike SteamOS 2.0 and SteamOS 1.0 previously, this third version isn't directly available on the Steam website. The operating system is preinstalled on the Steam Deck console but you can't download (for the moment at least) the ISO file.
+
+However, some developers has already managed to get an ISO file and to install it on a PC. The installation is not as simple as on SteamOS 2.0 but it is still possible. Of course, it's a customed version of SteamOS 3.0 and it's not recommended for beginners. But it's a good way to test the operating system and to see if it's possible to install it on your PC. The project is named HoloISO and it's available on Github via this link  :
+
+https://github.com/theVakhovskeIsTaken/holoiso
+
+As they say, it's not an official release and it's not supported by Valve. But they want to make as close as possible the gaming experience that you can find on the Steam Deck console. So, if you want to try it, you can follow the instructions on the Github page.
 
 ## The Wine project 
 
