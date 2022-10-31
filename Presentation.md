@@ -61,9 +61,9 @@ Why it's struggling to become more popular ?
 
 <!-- _class: invert -->
 
-The Steam Deck
-- SteamOS 3.0 is released, based on Arch Linux
-- Steam Deck is released, the new portable gaming console
+The Steam Deck, the new portable gaming console
+
+SteamOS 3.0 based on Arch Linux is released as well
 
 ![bg fit right](./img/steam_deck.jpg)
 
@@ -91,16 +91,17 @@ The Steam Deck
 
 <!-- _class: invert -->
 
-# Proton, the beginning of the revolution
+Wine is a compatibility layer for Windows applications that allows you to run Windows applications on Linux systems.
+
+- Translates Windows API calls into POSIX calls
+- More efficient thant a virtual machine
+- Free and open source software
 
 ---
 
-
 <!-- _class: invert -->
 
-Proton is a compatibility layer for Windows games, design to improve performance and compatibility with Linux systems.
-
-Proton is embbedded in the Steam client for Linux as "Steam Play".
+# Proton, the beginning of the revolution
 
 ---
 
@@ -117,6 +118,7 @@ Proton is embbedded in the Steam client for Linux as "Steam Play".
 <!-- _class: invert -->
 
 # The ProtonDB
+https://www.protondb.com/
 
 ---
 
