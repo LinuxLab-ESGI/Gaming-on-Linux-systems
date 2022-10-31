@@ -40,15 +40,29 @@ As they say, it's not an official release and it's not supported by Valve. But t
 
 ## The Wine project 
 
+Nowadays, I think you noticed that PC video games are mainly developed for Windows systems and we will know why in the final section. And sometimes it can be frustrating that you have to install a Windows dual boot only for this purpose. Why can't we play with our favorites games on a Linux distribution for god sake ?
+
+This is where the Wine project can be helpful. It's a compatibility layer that allows you to run Windows applications on Linux systems. Wine (**W**ine **i**s **n**ot an **e**mulator) is a free and open source software that translates Windows API calls into POSIX calls on-the-fly. It's more efficient than a virtual machine and more convenient than a dual boot.
+
+The idea to run Windows software on Linux systems is not new. In fact, it's been around for nearly 30 years. The Wine projet was born in 1993 but it will be necessary to wait until 2008 before having a stable version. Since then, the Wine project has been constantly evolving and it's still maintained by a large community of developers. You can check the latest news on the official <a href="https://www.winehq.org/">website</a>.
+
 ## Proton, the beginning of the revolution 
 
+Wine is indeed a powerful solution but it was not originally designed for gaming but running Windows applications on Linux systems in general. So, it's not really optimized for gaming, even more with the complexity of the latests games.
+
+In 2018, Valve (yes again) released the first version of the software Proton, a fork of Wine that is specifically designed for gaming was created. It's alson known as Steam Play on the Steam client. It's a huge game changer (lol) for the Linux gaming community and according to me it's a major breakthrough for the Linux gaming ecosystem.
+
+vulkan, controlers and more
+
 ### The ProtonDB 
+
+The ProtonDB is a website that allows you to check if a game is compatible with Proton. It's a huge database that is updated regularly. You can check 
 
 ## Most famous Linux distro for gaming 
 gaming distro, retropie
 
 ## Why video games are originally developed for Windows ?
-DirectX, DRM (like Easy anticheat)
+market shares, DirectX, DRM (like Easy anticheat)
 
 ## Appendix - Sources and References
 
@@ -61,3 +75,5 @@ https://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999
 https://www.futura-sciences.com/tech/definitions/informatique-steamos-19992/
 
 https://www.phonandroid.com/steam-deck-prix-date-de-sortie-fiche-technique-jeux-tout-savoir-sur-la-console-portable-de-valve.html
+
+https://www.winehq.org/
