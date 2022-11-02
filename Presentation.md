@@ -107,6 +107,8 @@ Wine is a compatibility layer for Windows applications that allows you to run Wi
 
 <!-- _class: invert -->
 
+## A major breakthrough for Linux gaming
+
 - Released in 2018 by Valve
 - Open source project
 - Based on Wine and includes DXVK/VKD3D among many other libraries
@@ -173,6 +175,18 @@ https://www.protondb.com/
 - Based on Ubuntu LTS
 - Customized Linux Kernel to reduced the latency
 - Claims to support most Xbox and Xbox360 controllers and some PlayStation controllers as well
+
+---
+
+<!-- _class: invert -->
+
+![bg 78% right](./img/retropie.png)
+
+# Retropie
+
+- Based on Raspbian
+- Emulator for retro games
+- Optimized for Raspberry Pi (but works on other computers as well)
 
 ---
 
