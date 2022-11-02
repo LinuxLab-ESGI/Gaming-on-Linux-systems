@@ -50,16 +50,46 @@ The idea to run Windows software on Linux systems is not new. In fact, it's been
 
 Wine is indeed a powerful solution but it was not originally designed for gaming but running Windows applications on Linux systems in general. So, it's not really optimized for gaming, even more with the complexity of the latests games.
 
-In 2018, Valve (yes again) released the first version of the software Proton, a fork of Wine that is specifically designed for gaming was created. It's alson known as Steam Play on the Steam client. It's a huge game changer (lol) for the Linux gaming community and according to me it's a major breakthrough for the Linux gaming ecosystem.
+In 2018, Valve (yes again) released the first version of the software Proton, a fork of Wine that is specifically designed for gaming. It's alson known as Steam Play on the Steam client. It's a huge game changer (lol) for the Linux gaming community and according to me it's a major breakthrough for the Linux gaming ecosystem in general. 
 
-vulkan, controlers and more
+Proton is directly integrated into SteamOS 3.0 (and in the console as well) but it's also available on many other Linux distributions. As we said before, Proton is a fork of Wine but with a lot of improvements. It embodies several components like a customed version of DXVK (Vulkan-based translation layer for Direct3D 9/10/11), VKD3D (Vulkan-based translation layer for Direct3D 12) and a customed version of FAudio (a library that allows you to play audio files). 
+They only use Direct3D from DirectX and not the whole DirectX API. So, it's not a full implementation of DirectX but it's not a problem because Proton uses Vulkan wich is an open source and cross-platform API for 3D graphics and OpenGL.
+
+The main purpose of the Proton software is to facilitate the integration of the game for developers on Linux platforms. They don't have to rebuild an entire game from scratch to make it compatible with Linux systems. They "just" have to make it compatible with Proton and the game will be playale on the Linux Steam client. Of course, it's not a magic solution and it's not a full replacement for a native Linux version of the game. But it's a good way to encourage developers to do so and for Valve to promote its new console of course.
 
 ### The ProtonDB 
 
-The ProtonDB is a website that allows you to check if a game is compatible with Proton. It's a huge database that is updated regularly. You can check 
+The ProtonDB is a website that allows you to check if a game is compatible with Proton. It's a huge database that is updated regularly.
+
+add link + notation system
 
 ## Most famous Linux distro for gaming 
-gaming distro, retropie
+
+There are a few Linux distributions that are particularly suitable for gaming. We will see the most famous ones in this section.
+
+- SteamOS
+    - Fork of Debian based on 8.x "Jessie"
+    - Not actively maintained and outdated
+
+- Pop!_OS
+    - Based on Ubuntu LTS, made by System76
+    - Suited for hybrid graphics computers
+    - Version with Nvidia drivers directly available
+
+- Garuda Linux
+    - Based on Arch Linux
+    - Several GUI applications to easily manage the system
+    - Garuda Gamer application (GUI tool to install gaming-related tools from one place)
+
+- DraugerOS
+    - Based on Ubuntu LTS
+    - Customized Linux Kernel to reduced the latency
+    - Claims to support most Xbox and Xbox360 controllers and some PlayStation controllers as well
+
+- Retropie
+    - Based on Raspbian
+    - Emulator for retro games
+    - Optimized for Raspberry Pi (but works on other computers as well)
 
 ## Why video games are originally developed for Windows ?
 market shares, DirectX, DRM (like Easy anticheat)
@@ -77,3 +107,7 @@ https://www.futura-sciences.com/tech/definitions/informatique-steamos-19992/
 https://www.phonandroid.com/steam-deck-prix-date-de-sortie-fiche-technique-jeux-tout-savoir-sur-la-console-portable-de-valve.html
 
 https://www.winehq.org/
+
+https://github.com/ValveSoftware/Proton
+
+https://www.trustedreviews.com/explainer/what-is-vulkan-2946841
