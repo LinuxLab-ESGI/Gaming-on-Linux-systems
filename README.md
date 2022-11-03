@@ -92,7 +92,12 @@ There are a few Linux distributions that are particularly suitable for gaming. W
     - Optimized for Raspberry Pi (but works on other computers as well)
 
 ## Why video games are originally developed for Windows ?
-market shares, DirectX, DRM (like Easy anticheat)
+
+Of course, there are some reasons why video games are originally developed for Windows systems. The first one is the market shares. Windows is the most used operating system in the world and it's the same for PC gaming. According to the latest data from Statcounter and Statista, Windows is the most used operating system for gaming with ~75% of the market shares. Linux is only at ~2.2% and MacOS at ~15%. So, it's not really surprising that most of the games are developed for Windows systems.
+
+The second one that DRM are also orignally developed for Windows platforms. We can mention the famous Easy anticheat that is used by many games. According to <a href="https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck">Epic Games</a>, the software is available on Linux systems since September 2021 only ! So there is still a huge delay in terms of compatibility with Linux systems for PC video games.
+
+Finally, the third reason is the complexity of the latests games. As we said before, the latests games are more and more complex and it's not easy to make them compatible with Linux systems when during manny years they were only developed for Windows systems. But to end this article optimistically, I think that the situation will change in the future and we will see more and more games developed for Linux systems, especially since the Steam Deck was released. Wait and see !
 
 ## Appendix - Sources and References
 
@@ -113,3 +118,7 @@ https://github.com/ValveSoftware/Proton
 https://www.trustedreviews.com/explainer/what-is-vulkan-2946841
 
 https://www.protondb.com/
+
+https://gs.statcounter.com/browser-market-share/desktop/worldwide
+
+https://www.statista.com/statistics/268237/global-market-share-held-by-operating-systems-since-2009/
