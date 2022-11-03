@@ -18,7 +18,7 @@ We will not discuss about consoles like Xbox, PS4/5, Nintendo Switch or little b
 
 ## One of the key players in the development of gaming on Linux systems
 
-For almost 10 years, Valve has always shown interest in the Linux gaming community. In 2013, at the LinuxCon, the PDG of Valve Gabe Newell presented SteamOS 1.0, a Linux distribution based on a fork of Debian 7 (Wheezie) designed to become the reference operating system for the gaming on PC. Even Linus Torvalds praised the idea of SteamOS, saying that it would force other development studios to take Linux seriously. Especially if game developers start to boycott Windows.
+For almost 10 years, Valve has always shown interest in the Linux gaming community. In 2013, at the LinuxCon, the CEO of Valve Gabe Newell presented SteamOS 1.0, a Linux distribution based on a fork of Debian 7 (Wheezie) designed to become the reference operating system for the gaming on PC. Even Linus Torvalds praised the idea of SteamOS, saying that it would force other development studios to take Linux seriously. Especially if game developers start to boycott Windows.
 
 Valve intended to make SteamOS a viable alternative of the Windows systems and to give a whole new ecosystem for the gamers with a Steam account. In 2015, Valve announced Steam Machines with the new SteamOS 2.0 (based on Debian 8), a new hybrid gaming console between PC and home console (like Playstation or Xbox). The goal of theses consoles was to attract both the PC gamers abd the home console gamers. But it was a huge commercial failure. Currently, at the time of writing, when you enter the words "Steam machines", you will see a lot articles talking about the death of theses consoles. Of course, the Steam Machines are no longer available for sale now.
 
