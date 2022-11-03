@@ -59,9 +59,9 @@ The main purpose of the Proton software is to facilitate the integration of the 
 
 ### The ProtonDB 
 
-The ProtonDB is a website that allows you to check if a game is compatible with Proton. It's a huge database that is updated regularly.
+The ProtonDB is a website that allows you to check if a game is compatible with Proton. It's a huge database that is updated regularly and a color code is used to indicate the level of compatibility of the game. In other words, it's a good way to know if a game is fully playable on Linux systems or just partially. You can check the ProtonDB via this link :
 
-add link + notation system
+https://www.protondb.com/
 
 ## Most famous Linux distro for gaming 
 
@@ -111,3 +111,5 @@ https://www.winehq.org/
 https://github.com/ValveSoftware/Proton
 
 https://www.trustedreviews.com/explainer/what-is-vulkan-2946841
+
+https://www.protondb.com/
