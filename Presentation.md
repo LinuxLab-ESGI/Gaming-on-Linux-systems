@@ -4,7 +4,7 @@ paginate: true
 color: #ffff
 backgroundColor: #2A2A2A
 header: '![width:100px height:100px](./img/logo.png)'
-footer: "**07/02/2022 - Anthony F && Nicolas F**"
+footer: "**11/03/2022 - Anthony F && Nicolas F**"
 author: Xen0rInspire && Tony2464
 ---
 <style>
