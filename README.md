@@ -101,6 +101,8 @@ Finally, a third reason is the complexity of the latest games. As we have said b
 
 ## Appendix - Sources and References
 
+You can find here all the references that we used to write this article and the presentation :
+
 https://www.01net.com/actualites/pour-linus-torvalds-steam-os-aidera-vraiment-linux-sur-les-pc-de-bureau-606188.html
 
 https://fr.wikipedia.org/wiki/SteamOS
