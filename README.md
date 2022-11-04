@@ -122,3 +122,6 @@ https://www.protondb.com/
 https://gs.statcounter.com/browser-market-share/desktop/worldwide
 
 https://www.statista.com/statistics/268237/global-market-share-held-by-operating-systems-since-2009/
+__________
+
+*Updated : 04/11/2022, Authors : Xen0rInspire, AnthonyF*
