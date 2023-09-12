@@ -36,7 +36,7 @@ However, some developers have already managed to get an ISO file and install it 
 
 https://github.com/theVakhovskeIsTaken/holoiso
 
-As they say, it's not an official release nor is it supported by Valve but the peopke working on this project want to make the gaming experience ressemble as much as possible as the one that you can have on the Steam Deck console. If you want to try it out, you can follow the instructions on their Github page.
+As they say, it's not an official release nor is it supported by Valve but the peopke working on this project want to make the gaming experience to be as similar as possible to that of the Steam Deck console. If you want to try it out, you can follow the instructions on their Github page.
 
 ## The Wine project 
 
@@ -126,4 +126,4 @@ https://gs.statcounter.com/browser-market-share/desktop/worldwide
 https://www.statista.com/statistics/268237/global-market-share-held-by-operating-systems-since-2009/
 __________
 
-*Updated : 04/11/2022, Authors : Xen0rInspire, AnthonyF*
+*Updated : 12/09/2023, Authors : Xen0rInspire, AnthonyF*
